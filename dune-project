@@ -5,9 +5,9 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github Sable-20/playfair))
 
-(authors "Author Name")
+(authors "Sable Ayala")
 
 (maintainers "Maintainer Name")
 
